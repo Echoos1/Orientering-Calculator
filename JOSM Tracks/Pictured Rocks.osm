@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-25595' action='modify' visible='true' lat='46.66196612585' lon='-86.01966083318'>
+    <tag k='comment' v='Crossing a bridge over the Sable Creek' />
+  </node>
+  <node id='-25596' action='modify' visible='true' lat='46.65319951418' lon='-86.02850408435'>
+    <tag k='comment' v='Reenter the trail here to the south. There is a parking lot here' />
+  </node>
+  <node id='-25597' action='modify' visible='true' lat='46.54786525246' lon='-86.43920660287'>
+    <tag k='comment' v='Crossing a bridge over a stream' />
+  </node>
+  <node id='-25598' action='modify' visible='true' lat='46.66844211625' lon='-86.16360958076' />
+  <node id='-25599' action='modify' visible='true' lat='46.48964718351' lon='-86.55572178125' />
+  <node id='-25600' action='modify' visible='true' lat='46.66151696792' lon='-86.01981908351' />
+  <node id='-25602' action='modify' visible='true' lat='46.55981565526' lon='-86.40288413644' />
+  <node id='-25603' action='modify' visible='true' lat='46.66825578571' lon='-86.13407582313' />
+  <node id='-25604' action='modify' visible='true' lat='46.49567804843' lon='-86.5442794776' />
+  <node id='-25605' action='modify' visible='true' lat='46.59301357486' lon='-86.31415129781' />
+  <node id='-25606' action='modify' visible='true' lat='46.66200662904' lon='-86.12611771703' />
+  <node id='-25607' action='modify' visible='true' lat='46.51796022484' lon='-86.506197474' />
+  <node id='-25608' action='modify' visible='true' lat='46.59804883392' lon='-86.30273582697' />
+  <node id='-25609' action='modify' visible='true' lat='46.64484026137' lon='-86.05862796843' />
+  <node id='-25610' action='modify' visible='true' lat='46.64898322252' lon='-86.1938756758' />
+  <node id='-25611' action='modify' visible='true' lat='46.6467663156' lon='-86.03988737136' />
+  <node id='-25612' action='modify' visible='true' lat='46.54755720213' lon='-86.47023441553' />
+  <node id='-25613' action='modify' visible='true' lat='46.65055930576' lon='-86.19138658583' />
+  <node id='-25614' action='modify' visible='true' lat='46.42370355779' lon='-86.62415028155'>
+    <tag k='name' v='Munising Falls Visitor Center' />
+  </node>
+  <node id='-25615' action='modify' visible='true' lat='46.65152040307' lon='-86.03359223485' />
+  <node id='-25616' action='modify' visible='true' lat='46.55311312895' lon='-86.46232724726'>
+    <tag k='name' v='Grand Portal Point' />
+  </node>
+  <node id='-25617' action='modify' visible='true' lat='46.66645934061' lon='-86.16597801715'>
+    <tag k='name' v='Hurricane River Lower Campground' />
+  </node>
+  <node id='-25618' action='modify' visible='true' lat='46.46807389034' lon='-86.58130469084' />
+  <node id='-25619' action='modify' visible='true' lat='46.65165848339' lon='-86.02596268192' />
+  <node id='-25621' action='modify' visible='true' lat='46.55185885374' lon='-86.42557026029' />
+  <node id='-25622' action='modify' visible='true' lat='46.67079758174' lon='-86.1545437628' />
+  <node id='-25623' action='modify' visible='true' lat='46.4908733535' lon='-86.54384495974' />
+  <node id='-25624' action='modify' visible='true' lat='46.66702257675' lon='-86.01441711456' />
+  <node id='-25625' action='modify' visible='true' lat='46.56864165131' lon='-86.37291849196'>
+    <tag k='name' v='Coves Campsite' />
+  </node>
+  <node id='-25626' action='modify' visible='true' lat='46.66474567329' lon='-86.12645031095' />
+  <node id='-25627' action='modify' visible='true' lat='46.49854367512' lon='-86.52977409124'>
+    <tag k='name' v='Potato Patch Campsite' />
+  </node>
+  <node id='-25628' action='modify' visible='true' lat='46.59557849659' lon='-86.30390746025' />
+  <node id='-25629' action='modify' visible='true' lat='46.66034988169' lon='-86.123371135' />
+  <node id='-25630' action='modify' visible='true' lat='46.62056165773' lon='-86.25728309691' />
+  <node id='-25631' action='modify' visible='true' lat='46.64264160111' lon='-86.04529202521'>
+    <tag k='comment' v='Begin walking north along Grand Sable Lake' />
+  </node>
+  <node id='-25632' action='modify' visible='true' lat='46.52749057719' lon='-86.49238408148'>
+    <tag k='name' v='Mosquito River Campsite' />
+  </node>
+  <node id='-25633' action='modify' visible='true' lat='46.64988174289' lon='-86.19130075514' />
+  <node id='-25634' action='modify' visible='true' lat='46.64833141767' lon='-86.04274929106' />
+  <node id='-25635' action='modify' visible='true' lat='46.55157109963' lon='-86.46853387892'>
+    <tag k='name' v='Miners Castle Overlook' />
+  </node>
+  <node id='-25636' action='modify' visible='true' lat='46.65472391965' lon='-86.18297517568' />
+  <node id='-25637' action='modify' visible='true' lat='46.45967497884' lon='-86.58651889443' />
+  <node id='-25638' action='modify' visible='true' lat='46.65203039624' lon='-86.0273426798'>
+    <tag k='comment' v='Crossing a bridge over the Sable Creek' />
+  </node>
+  <node id='-25639' action='modify' visible='true' lat='46.55172236431' lon='-86.45349743128' />
+  <node id='-25640' action='modify' visible='true' lat='46.6696638201' lon='-86.16014957964' />
+  <node id='-25641' action='modify' visible='true' lat='46.47748001122' lon='-86.56684758425' />
+  <node id='-25642' action='modify' visible='true' lat='46.66702441922' lon='-86.01669431269' />
+  <node id='-25643' action='modify' visible='true' lat='46.65471188882' lon='-86.02230705987' />
+  <node id='-25644' action='modify' visible='true' lat='46.56109925434' lon='-86.3961678797'>
+    <tag k='name' v='Coves Group Campsite' />
+  </node>
+  <node id='-25645' action='modify' visible='true' lat='46.67283313955' lon='-86.13899231493'>
+    <tag k='comment' v='There is a parking lot, restrooms, and water here' />
+    <tag k='name' v='Au Sable Point Lighthouse' />
+  </node>
+  <node id='-25646' action='modify' visible='true' lat='46.49921205344' lon='-86.53227927446' />
+  <node id='-25647' action='modify' visible='true' lat='46.67054727646' lon='-86.01382971883' />
+  <node id='-25648' action='modify' visible='true' lat='46.57752152272' lon='-86.34976297751'>
+    <tag k='name' v='Beaver Creek Campground' />
+  </node>
+  <node id='-25649' action='modify' visible='true' lat='46.50458093811' lon='-86.52381422281' />
+  <node id='-25650' action='modify' visible='true' lat='46.61958896062' lon='-86.25959516108'>
+    <tag k='name' v='Sevenmile Creek Campsite' />
+  </node>
+  <node id='-25651' action='modify' visible='true' lat='46.65064401156' lon='-86.10469224215' />
+  <node id='-25652' action='modify' visible='true' lat='46.5253093087' lon='-86.49252893686' />
+  <node id='-25653' action='modify' visible='true' lat='46.64684733367' lon='-86.20067775518'>
+    <tag k='name' v='Beachmark Campsite' />
+  </node>
+  <node id='-25654' action='modify' visible='true' lat='46.64735553696' lon='-86.04355395377' />
+  <node id='-25655' action='modify' visible='true' lat='46.53626649287' lon='-86.48248674631' />
+  <node id='-25656' action='modify' visible='true' lat='46.65489145495' lon='-86.18344188005'>
+    <tag k='comment' v='Crossing a stream. Following the stream 300 feet North to Au Sable Point Trail road and then 400 feet East, there is a parking lot' />
+  </node>
+  <node id='-25657' action='modify' visible='true' lat='46.64948772513' lon='-86.03859187245' />
+  <node id='-25658' action='modify' visible='true' lat='46.55012495726' lon='-86.45487072229' />
+  <node id='-25659' action='modify' visible='true' lat='46.66112671475' lon='-86.17514849246' />
+  <node id='-25660' action='modify' visible='true' lat='46.47362318107' lon='-86.57216908693'>
+    <tag k='name' v='Cliffs Campsite' />
+  </node>
+  <node id='-25661' action='modify' visible='true' lat='46.65219057718' lon='-86.02500916064' />
+  <node id='-25662' action='modify' visible='true' lat='46.54744281799' lon='-86.44071936876'>
+    <tag k='name' v='Chapel Beach Campsite' />
+  </node>
+  <node id='-25663' action='modify' visible='true' lat='46.67052519032' lon='-86.14745737195' />
+  <node id='-25664' action='modify' visible='true' lat='46.48715043868' lon='-86.55684830904'>
+    <tag k='name' v='Cliffs Group Campsite' />
+  </node>
+  <node id='-25665' action='modify' visible='true' lat='46.66115617174' lon='-86.01909221292' />
+  <node id='-25666' action='modify' visible='true' lat='46.66953130464' lon='-86.01326109052' />
+  <node id='-25667' action='modify' visible='true' lat='46.57627518384' lon='-86.35197580129'>
+    <tag k='comment' v='Crossing a bridge over a stream' />
+  </node>
+  <node id='-25668' action='modify' visible='true' lat='46.66966381826' lon='-86.13471418887'>
+    <tag k='name' v='Au Sable Point Campground' />
+  </node>
+  <node id='-25669' action='modify' visible='true' lat='46.50211441869' lon='-86.52900161505' />
+  <node id='-25670' action='modify' visible='true' lat='46.67287178864' lon='-85.99439174473'>
+    <tag k='name' v='Grand Sable Visitors Center' />
+  </node>
+  <node id='-25671' action='modify' visible='true' lat='46.59332322316' lon='-86.31511689305' />
+  <node id='-25672' action='modify' visible='true' lat='46.65631456909' lon='-86.12164379239' />
+  <node id='-25673' action='modify' visible='true' lat='46.51540571478' lon='-86.51585342646' />
+  <node id='-25674' action='modify' visible='true' lat='46.63979094374' lon='-86.21577859461'>
+    <tag k='Twelvemile Beach Campground' v='Pine Bluff Campground' />
+  </node>
+  <node id='-25675' action='modify' visible='true' lat='46.64657850053' lon='-86.05971962482'>
+    <tag k='comment' v='Crossing Sable Lake Road' />
+  </node>
+  <node id='-25676' action='modify' visible='true' lat='46.53142848031' lon='-86.49007739782' />
+  <node id='-25677' action='modify' visible='true' lat='46.64815097313' lon='-86.19635403693'>
+    <tag k='comment' v='Crossing the road Au Sable Point Trail' />
+  </node>
+  <node id='-25678' action='modify' visible='true' lat='46.64866652736' lon='-86.03891909659'>
+    <tag k='comment' v='There is a parking lot here. Begin walking east along Sable Lake Road' />
+    <tag k='name' v='Grand Sable Lake Overlook' />
+  </node>
+  <node id='-25679' action='modify' visible='true' lat='46.54602239394' lon='-86.47562029123' />
+  <node id='-25680' action='modify' visible='true' lat='46.65974607302' lon='-86.17538989127' />
+  <node id='-25681' action='modify' visible='true' lat='46.54684145564' lon='-86.44475342989'>
+    <tag k='comment' v='Crossing a bridge over a stream' />
+  </node>
+  <node id='-25682' action='modify' visible='true' lat='46.66561171346' lon='-86.16748005286'>
+    <tag k='comment' v='Crossing a bridge over Hurricane River. There is a parking lot and restrooms here' />
+  </node>
+  <node id='-25683' action='modify' visible='true' lat='46.48105952565' lon='-86.56428875685' />
+  <node id='-25684' action='modify' visible='true' lat='46.66315159219' lon='-86.02046013415' />
+  <node id='-25685' action='modify' visible='true' lat='46.65739338933' lon='-86.02038504839'>
+    <tag k='comment' v='There is a parking lot here. Cross over Sable Lake Road' />
+    <tag k='name' v='Grand Sable Visitors Center' />
+  </node>
+  <node id='-25686' action='modify' visible='true' lat='46.54953836135' lon='-86.43574119687'>
+    <tag k='comment' v='Crossing a bridge over a stream' />
+  </node>
+  <node id='-25687' action='modify' visible='true' lat='46.67116751879' lon='-86.13617867365'>
+    <tag k='name' v='Au Sable East Group Campground' />
+  </node>
+  <node id='-25688' action='modify' visible='true' lat='46.49430057361' lon='-86.55033590555'>
+    <tag k='comment' v='There is a parking lot here with road access' />
+    <tag k='name' v='RFC Miners Castle Vistor Center' />
+  </node>
+  <node id='-25689' action='modify' visible='true' lat='46.6733742243' lon='-85.99662066042'>
+    <tag k='comment' v='Crossing a stream' />
+  </node>
+  <node id='-25690' action='modify' visible='true' lat='46.58645155834' lon='-86.32892757922'>
+    <tag k='name' v='Pine Bluff Campground' />
+  </node>
+  <node id='-25691' action='modify' visible='true' lat='46.66703546669' lon='-86.13236189961' />
+  <node id='-25692' action='modify' visible='true' lat='46.51122669088' lon='-86.51911499262' />
+  <node id='-25693' action='modify' visible='true' lat='46.59682507488' lon='-86.30674840093' />
+  <node id='-25694' action='modify' visible='true' lat='46.6465637828' lon='-86.09814765215' />
+  <node id='-25695' action='modify' visible='true' lat='46.52250784149' lon='-86.49986746073' />
+  <node id='-25696' action='modify' visible='true' lat='46.64840138396' lon='-86.19731962949' />
+  <node id='-25697' action='modify' visible='true' lat='46.64286625894' lon='-86.05455637515' />
+  <node id='-25698' action='modify' visible='true' lat='46.54323306413' lon='-86.48077013254' />
+  <node id='-25699' action='modify' visible='true' lat='46.64980072937' lon='-86.19222879946' />
+  <node id='-25700' action='modify' visible='true' lat='46.65132155751' lon='-86.03686452985' />
+  <node id='-25701' action='modify' visible='true' lat='46.55025776887' lon='-86.46757366419' />
+  <node id='-25702' action='modify' visible='true' lat='46.66365227562' lon='-86.17202103406' />
+  <node id='-25703' action='modify' visible='true' lat='46.45206384865' lon='-86.59392714769'>
+    <tag k='name' v='Sand Point Junction' />
+  </node>
+  <node id='-26001' action='modify' visible='true' lat='46.46188846153' lon='-86.58553721666'>
+    <tag k='name' v='Sweet Mother Moses Falls' />
+  </node>
+  <node id='-26042' action='modify' visible='true' lat='46.45667795616' lon='-86.58952832758'>
+    <tag k='name' v='Ice Falls' />
+  </node>
+  <node id='-26097' action='modify' visible='true' lat='46.46580892625' lon='-86.58232927859'>
+    <tag k='comment' v='Crossing a stream' />
+  </node>
+  <node id='-26100' action='modify' visible='true' lat='46.46417204184' lon='-86.58406735003' />
+  <node id='-26136' action='modify' visible='true' lat='46.46920447675' lon='-86.57902480245'>
+    <tag k='comment' v='Crossing a stream' />
+  </node>
+  <node id='-26194' action='modify' visible='true' lat='46.48415861866' lon='-86.55949832082' />
+  <node id='-26255' action='modify' visible='true' lat='46.49339946462' lon='-86.54693485379' />
+  <node id='-26273' action='modify' visible='true' lat='46.49198869361' lon='-86.54212833524' />
+  <node id='-26284' action='modify' visible='true' lat='46.49403466894' lon='-86.54336215138' />
+  <node id='-26291' action='modify' visible='true' lat='46.49375399818' lon='-86.54469252706'>
+    <tag k='comment' v='Crossing a bridge over a stream' />
+  </node>
+  <node id='-26300' action='modify' visible='true' lat='46.49411960849' lon='-86.54529334188' />
+  <node id='-26306' action='modify' visible='true' lat='46.49444828637' lon='-86.54452086568' />
+  <node id='-26351' action='modify' visible='true' lat='46.49632429737' lon='-86.54313684583'>
+    <tag k='comment' v='There is a parking lot 300 feet off the trail' />
+    <tag k='name' v='Miners Beach' />
+  </node>
+  <node id='-26392' action='modify' visible='true' lat='46.49777557274' lon='-86.53179109633'>
+    <tag k='comment' v='There is a parking lot here' />
+  </node>
+  <node id='-26489' action='modify' visible='true' lat='46.44072557469' lon='-86.60627604604'>
+    <tag k='comment' v='Crossing a bridge over a stream' />
+  </node>
+  <node id='-26535' action='modify' visible='true' lat='46.44332795823' lon='-86.60202743769'>
+    <tag k='comment' v='Crossing a bridge over a stream' />
+  </node>
+  <node id='-26551' action='modify' visible='true' lat='46.44622591265' lon='-86.59975292444'>
+    <tag k='comment' v='Crossing a bridge over a stream' />
+  </node>
+  <node id='-26557' action='modify' visible='true' lat='46.44526487342' lon='-86.6030144906' />
+  <node id='-26571' action='modify' visible='true' lat='46.44652161361' lon='-86.60110475779' />
+  <node id='-26811' action='modify' visible='true' lat='46.49757246985' lon='-86.53087378085' />
+  <node id='-26821' action='modify' visible='true' lat='46.50771930042' lon='-86.52206004202'>
+    <tag k='comment' v='Crossing a bridge over a stream. This stream leads to Bridalveil Falls' />
+  </node>
+  <node id='-26855' action='modify' visible='true' lat='46.52499557001' lon='-86.49361253321'>
+    <tag k='name' v='Mosquito River Group Campsite' />
+  </node>
+  <node id='-26865' action='modify' visible='true' lat='46.52630952299' lon='-86.49294198096'>
+    <tag k='comment' v='Crossing a bridge over a stream' />
+  </node>
+  <node id='-26922' action='modify' visible='true' lat='46.52593674742' lon='-86.49245381892' />
+  <node id='-27032' action='modify' visible='true' lat='46.55199534651' lon='-86.46717131674' />
+  <node id='-27040' action='modify' visible='true' lat='46.55190680831' lon='-86.46554053366' />
+  <node id='-27081' action='modify' visible='true' lat='46.55203593016' lon='-86.46131874204' />
+  <node id='-27088' action='modify' visible='true' lat='46.5492838021' lon='-86.44984961629' />
+  <node id='-27103' action='modify' visible='true' lat='46.54837623329' lon='-86.44604087949' />
+  <node id='-27158' action='modify' visible='true' lat='46.5507225959' lon='-86.43043041766'>
+    <tag k='comment' v='Crossing a bridge over a stream' />
+  </node>
+  <node id='-27177' action='modify' visible='true' lat='46.55762091925' lon='-86.41060353398'>
+    <tag k='comment' v='Crossing a bridge over a stream' />
+  </node>
+  <node id='-27189' action='modify' visible='true' lat='46.55431573754' lon='-86.41854287267' />
+  <node id='-27221' action='modify' visible='true' lat='46.56082630686' lon='-86.40168786585' />
+  <node id='-27232' action='modify' visible='true' lat='46.56036155531' lon='-86.39965475142' />
+  <node id='-27458' action='modify' visible='true' lat='46.64467822279' lon='-86.20527506948'>
+    <tag k='comment' v='There is a parking lot here' />
+  </node>
+  <node id='-27602' action='modify' visible='true' lat='46.66008479372' lon='-86.17541671336'>
+    <tag k='comment' v='Crossing the road Au Sable Point Trail' />
+  </node>
+  <node id='-27977' action='modify' visible='true' lat='46.6528681148' lon='-86.11103297353'>
+    <tag k='comment' v='There is a parking lot 1000 feet off the trail' />
+    <tag k='name' v='Log Slide Beach' />
+  </node>
+  <node id='-28052' action='modify' visible='true' lat='46.64687312501' lon='-86.09056236506'>
+    <tag k='name' v='Masse Homestead Campsite' />
+  </node>
+  <node id='-28066' action='modify' visible='true' lat='46.64674054999' lon='-86.09483244181'>
+    <tag k='name' v='Masse Homestead Group Campsite' />
+  </node>
+  <node id='-28586' action='modify' visible='true' lat='46.66785821694' lon='-86.01396918565'>
+    <tag k='comment' v='There is a parking lot, restrooms, and water 400 feet south of the trail' />
+    <tag k='name' v='Sable Falls' />
+  </node>
+  <node id='2475512050' action='delete' timestamp='2016-07-11T19:52:14Z' uid='352520' user='MGH' visible='true' version='2' changeset='40664092' lat='46.6710834' lon='-86.1362309'>
+    <tag k='name' v='Au Sable East Group Campground' />
+    <tag k='source' v='NPS' />
+    <tag k='tourism' v='camp_site' />
+  </node>
+  <node id='9530072753' action='delete' timestamp='2022-02-23T14:52:13Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117774353' lat='46.5474789' lon='-86.4396928' />
+  <node id='9530072754' action='delete' timestamp='2022-02-23T14:52:13Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117774353' lat='46.5474081' lon='-86.4406885' />
+  <node id='9530072755' action='delete' timestamp='2022-02-23T14:52:13Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117774353' lat='46.5470745' lon='-86.4418128' />
+  <node id='9530072756' action='delete' timestamp='2022-02-23T14:52:13Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117774353' lat='46.5468384' lon='-86.4406885' />
+  <node id='9530072757' action='delete' timestamp='2022-02-23T14:52:13Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117774353' lat='46.5470008' lon='-86.439607' />
+  <node id='9530073629' action='delete' timestamp='2022-02-23T14:21:40Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117773108' lat='46.619698' lon='-86.259048' />
+  <node id='9530073630' action='delete' timestamp='2022-02-23T14:21:40Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117773108' lat='46.6191203' lon='-86.2586232' />
+  <node id='9530073631' action='delete' timestamp='2022-02-23T14:21:40Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117773108' lat='46.6190997' lon='-86.2593441' />
+  <node id='9530073632' action='delete' timestamp='2022-02-23T14:21:40Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117773108' lat='46.6193001' lon='-86.2595673' />
+  <node id='9530073633' action='delete' timestamp='2022-02-23T14:21:40Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117773108' lat='46.6195566' lon='-86.2594085' />
+  <node id='9530140582' action='delete' timestamp='2022-02-23T14:55:19Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117774467' lat='46.4972304' lon='-86.5303746' />
+  <node id='9530140583' action='delete' timestamp='2022-02-23T14:55:19Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117774467' lat='46.4971757' lon='-86.5295554' />
+  <node id='9530140584' action='delete' timestamp='2022-02-23T14:55:19Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117774467' lat='46.4967435' lon='-86.5296457' />
+  <node id='9530140585' action='delete' timestamp='2022-02-23T14:55:19Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117774467' lat='46.4966913' lon='-86.5301689' />
+  <node id='9530140586' action='delete' timestamp='2022-02-23T14:55:19Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117774467' lat='46.496972' lon='-86.5304901' />
+  <way id='-2599' action='modify' visible='true'>
+    <nd ref='-25687' />
+    <nd ref='-25668' />
+    <nd ref='-25603' />
+    <nd ref='-25691' />
+    <nd ref='-25626' />
+    <nd ref='-25606' />
+    <nd ref='-25629' />
+    <nd ref='-25672' />
+    <nd ref='-27977' />
+    <nd ref='-25651' />
+    <nd ref='-25694' />
+    <nd ref='-28066' />
+    <nd ref='-28052' />
+    <nd ref='-25675' />
+    <nd ref='-25609' />
+    <nd ref='-25697' />
+    <nd ref='-25631' />
+    <nd ref='-25611' />
+    <nd ref='-25654' />
+    <nd ref='-25634' />
+    <nd ref='-25678' />
+    <nd ref='-25657' />
+    <nd ref='-25700' />
+    <nd ref='-25615' />
+    <nd ref='-25596' />
+    <nd ref='-25638' />
+    <nd ref='-25619' />
+    <nd ref='-25661' />
+    <nd ref='-25643' />
+    <nd ref='-25685' />
+    <nd ref='-25665' />
+    <nd ref='-25600' />
+    <nd ref='-25595' />
+    <nd ref='-25684' />
+    <nd ref='-25642' />
+    <nd ref='-25624' />
+    <nd ref='-28586' />
+    <nd ref='-25666' />
+    <nd ref='-25647' />
+    <nd ref='-25689' />
+    <nd ref='-25670' />
+    <tag k='name' v='Day 5' />
+    <tag k='ref' v='5' />
+  </way>
+  <way id='-2629' action='modify' visible='true'>
+    <nd ref='-25614' />
+    <nd ref='-26489' />
+    <nd ref='-26535' />
+    <nd ref='-26557' />
+    <nd ref='-26571' />
+    <nd ref='-26551' />
+    <nd ref='-25703' />
+    <nd ref='-26042' />
+    <nd ref='-25637' />
+    <nd ref='-26001' />
+    <nd ref='-26100' />
+    <nd ref='-26097' />
+    <nd ref='-25618' />
+    <nd ref='-26136' />
+    <nd ref='-25660' />
+    <nd ref='-25641' />
+    <nd ref='-25683' />
+    <nd ref='-26194' />
+    <nd ref='-25664' />
+    <nd ref='-25599' />
+    <nd ref='-25688' />
+    <nd ref='-26255' />
+    <nd ref='-25623' />
+    <nd ref='-26273' />
+    <nd ref='-26284' />
+    <nd ref='-26291' />
+    <nd ref='-26300' />
+    <nd ref='-26306' />
+    <nd ref='-25604' />
+    <nd ref='-26351' />
+    <nd ref='-25646' />
+    <nd ref='-26392' />
+    <nd ref='-26811' />
+    <nd ref='-25627' />
+    <tag k='name' v='Day 1' />
+    <tag k='ref' v='1' />
+  </way>
+  <way id='-2680' action='modify' visible='true'>
+    <nd ref='-25627' />
+    <nd ref='-25669' />
+    <nd ref='-25649' />
+    <nd ref='-26821' />
+    <nd ref='-25692' />
+    <nd ref='-25673' />
+    <nd ref='-25607' />
+    <nd ref='-25695' />
+    <nd ref='-26855' />
+    <nd ref='-25652' />
+    <nd ref='-26922' />
+    <nd ref='-26865' />
+    <nd ref='-25632' />
+    <nd ref='-25676' />
+    <nd ref='-25655' />
+    <nd ref='-25698' />
+    <nd ref='-25679' />
+    <nd ref='-25612' />
+    <nd ref='-25701' />
+    <nd ref='-25635' />
+    <nd ref='-27032' />
+    <nd ref='-27040' />
+    <nd ref='-25616' />
+    <nd ref='-27081' />
+    <nd ref='-25658' />
+    <nd ref='-25639' />
+    <nd ref='-27088' />
+    <nd ref='-27103' />
+    <nd ref='-25681' />
+    <nd ref='-25662' />
+    <tag k='name' v='Day 2' />
+    <tag k='ref' v='2' />
+  </way>
+  <way id='-2690' action='modify' visible='true'>
+    <nd ref='-25662' />
+    <nd ref='-25597' />
+    <nd ref='-25686' />
+    <nd ref='-27158' />
+    <nd ref='-25621' />
+    <nd ref='-27189' />
+    <nd ref='-27177' />
+    <nd ref='-25602' />
+    <nd ref='-27221' />
+    <nd ref='-27232' />
+    <nd ref='-25644' />
+    <nd ref='-25625' />
+    <nd ref='-25667' />
+    <nd ref='-25648' />
+    <nd ref='-25690' />
+    <nd ref='-25671' />
+    <nd ref='-25605' />
+    <nd ref='-25693' />
+    <nd ref='-25628' />
+    <nd ref='-25608' />
+    <nd ref='-25650' />
+    <tag k='name' v='Day 3' />
+    <tag k='ref' v='3' />
+  </way>
+  <way id='-2695' action='modify' visible='true'>
+    <nd ref='-25650' />
+    <nd ref='-25630' />
+    <nd ref='-25674' />
+    <nd ref='-27458' />
+    <nd ref='-25653' />
+    <nd ref='-25696' />
+    <nd ref='-25677' />
+    <nd ref='-25610' />
+    <nd ref='-25699' />
+    <nd ref='-25633' />
+    <nd ref='-25613' />
+    <nd ref='-25656' />
+    <nd ref='-25636' />
+    <nd ref='-25680' />
+    <nd ref='-27602' />
+    <nd ref='-25659' />
+    <nd ref='-25702' />
+    <nd ref='-25682' />
+    <nd ref='-25617' />
+    <nd ref='-25598' />
+    <nd ref='-25640' />
+    <nd ref='-25622' />
+    <nd ref='-25663' />
+    <nd ref='-25645' />
+    <nd ref='-25687' />
+    <tag k='name' v='Day 4' />
+    <tag k='ref' v='4' />
+  </way>
+  <way id='1034517543' action='delete' timestamp='2022-02-23T14:21:40Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117773108'>
+    <tag k='backcountry' v='yes' />
+    <tag k='gnis:feature_id' v='2098054' />
+    <tag k='name' v='Sevenmile Campground' />
+    <tag k='tourism' v='camp_site' />
+  </way>
+  <way id='1034525016' action='delete' timestamp='2022-02-23T14:52:13Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117774353'>
+    <tag k='backcountry' v='yes' />
+    <tag k='capacity:persons' v='6' />
+    <tag k='name' v='Chapel Beach Campsite' />
+    <tag k='tourism' v='camp_site' />
+    <tag k='website' v='https://www.recreation.gov/camping/campsites/65437903' />
+  </way>
+  <way id='1034526557' action='delete' timestamp='2022-02-23T14:55:19Z' uid='6801963' user='Brian562' visible='true' version='1' changeset='117774467'>
+    <tag k='backcountry' v='yes' />
+    <tag k='capacity:persons' v='6' />
+    <tag k='name' v='Potato Patch Campsite' />
+    <tag k='tourism' v='camp_site' />
+    <tag k='website' v='https://www.recreation.gov/camping/campsites/65437703' />
+  </way>
+</osm>

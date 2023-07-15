@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="JOSM GPX export" xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <time>2023-07-11T19:41:26.397281300Z</time>
+    <bounds minlat="46.4237036" minlon="-86.6241503" maxlat="46.6733742" maxlon="-85.9943917"/>
+  </metadata>
+  <wpt lat="46.6678582169414" lon="-86.01396918565037">
+    <name>Sable Falls</name>
+    <cmt>There is a parking lot, restrooms, and water 400 feet south of the trail</cmt>
+  </wpt>
+  <wpt lat="46.652868114803745" lon="-86.11103297352791">
+    <name>Log Slide Beach</name>
+    <cmt>There is a parking lot 1000 feet off the trail</cmt>
+  </wpt>
+  <wpt lat="46.4963242973654" lon="-86.54313684582709">
+    <name>Miners Beach</name>
+    <cmt>There is a parking lot 300 feet off the trail</cmt>
+  </wpt>
+  <wpt lat="46.494300573610936" lon="-86.55033590555192">
+    <name>RFC Miners Castle Vistor Center</name>
+    <cmt>There is a parking lot here with road access</cmt>
+  </wpt>
+  <wpt lat="46.657393389334146" lon="-86.02038504838946">
+    <name>Grand Sable Visitors Center</name>
+    <cmt>There is a parking lot here. Cross over Sable Lake Road</cmt>
+  </wpt>
+  <wpt lat="46.64866652735987" lon="-86.0389190965891">
+    <name>Grand Sable Lake Overlook</name>
+    <cmt>There is a parking lot here. Begin walking east along Sable Lake Road</cmt>
+  </wpt>
+  <wpt lat="46.63979094373885" lon="-86.21577859461308">
+  </wpt>
+  <wpt lat="46.67283313955346" lon="-86.13899231493475">
+    <name>Au Sable Point Lighthouse</name>
+    <cmt>There is a parking lot, restrooms, and water here</cmt>
+  </wpt>
+  <trk>
+    <name>Day 1</name>
+    <trkseg>
+      <trkpt lat="46.42370355778637" lon="-86.6241502815485">
+        <name>Munising Falls Visitor Center</name>
+      </trkpt>
+      <trkpt lat="46.44072557469413" lon="-86.60627604603768">
+        <cmt>Crossing a bridge over a stream</cmt>
+      </trkpt>
+      <trkpt lat="46.4433279582329" lon="-86.60202743768694">
+        <cmt>Crossing a bridge over a stream</cmt>
+      </trkpt>
+      <trkpt lat="46.44526487341997" lon="-86.60301449060441">
+      </trkpt>
+      <trkpt lat="46.44652161361118" lon="-86.6011047577858">
+      </trkpt>
+      <trkpt lat="46.446225912645176" lon="-86.5997529244423">
+        <cmt>Crossing a bridge over a stream</cmt>
+      </trkpt>
+      <trkpt lat="46.452063848645714" lon="-86.59392714768647">
+        <name>Sand Point Junction</name>
+      </trkpt>
+      <trkpt lat="46.45667795616112" lon="-86.58952832758428">
+        <name>Ice Falls</name>
+      </trkpt>
+      <trkpt lat="46.45967497883587" lon="-86.58651889443398">
+      </trkpt>
+      <trkpt lat="46.461888461533306" lon="-86.58553721666335">
+        <name>Sweet Mother Moses Falls</name>
+      </trkpt>
+      <trkpt lat="46.46417204184299" lon="-86.58406735002994">
+      </trkpt>
+      <trkpt lat="46.46580892624885" lon="-86.58232927858829">
+        <cmt>Crossing a stream</cmt>
+      </trkpt>
+      <trkpt lat="46.4680738903369" lon="-86.58130469083787">
+      </trkpt>
+      <trkpt lat="46.46920447675215" lon="-86.57902480244637">
+        <cmt>Crossing a stream</cmt>
+      </trkpt>
+      <trkpt lat="46.47362318106852" lon="-86.57216908693316">
+        <name>Cliffs Campsite</name>
+      </trkpt>
+      <trkpt lat="46.47748001122405" lon="-86.56684758424758">
+      </trkpt>
+      <trkpt lat="46.48105952565002" lon="-86.56428875684738">
+      </trkpt>
+      <trkpt lat="46.48415861866096" lon="-86.55949832081795">
+      </trkpt>
+      <trkpt lat="46.48715043868217" lon="-86.55684830904008">
+        <name>Cliffs Group Campsite</name>
+      </trkpt>
+      <trkpt lat="46.489647183509895" lon="-86.55572178125381">
+      </trkpt>
+      <trkpt lat="46.494300573610936" lon="-86.55033590555192">
+        <name>RFC Miners Castle Vistor Center</name>
+        <cmt>There is a parking lot here with road access</cmt>
+      </trkpt>
+      <trkpt lat="46.49339946462396" lon="-86.5469348537922">
+      </trkpt>
+      <trkpt lat="46.49087335350295" lon="-86.54384495973588">
+      </trkpt>
+      <trkpt lat="46.49198869360754" lon="-86.54212833523752">
+      </trkpt>
+      <trkpt lat="46.494034668944714" lon="-86.54336215138434">
+      </trkpt>
+      <trkpt lat="46.493753998182946" lon="-86.54469252705573">
+        <cmt>Crossing a bridge over a stream</cmt>
+      </trkpt>
+      <trkpt lat="46.49411960849498" lon="-86.54529334187507">
+      </trkpt>
+      <trkpt lat="46.49444828637438" lon="-86.54452086567879">
+      </trkpt>
+      <trkpt lat="46.49567804842965" lon="-86.5442794775963">
+      </trkpt>
+      <trkpt lat="46.4963242973654" lon="-86.54313684582709">
+        <name>Miners Beach</name>
+        <cmt>There is a parking lot 300 feet off the trail</cmt>
+      </trkpt>
+      <trkpt lat="46.499212053444815" lon="-86.53227927446368">
+      </trkpt>
+      <trkpt lat="46.497775572735684" lon="-86.5317910963297">
+        <cmt>There is a parking lot here</cmt>
+      </trkpt>
+      <trkpt lat="46.49757246985431" lon="-86.53087378084663">
+      </trkpt>
+      <trkpt lat="46.49854367512396" lon="-86.52977409124375">
+        <name>Potato Patch Campsite</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Day 2</name>
+    <trkseg>
+      <trkpt lat="46.49854367512396" lon="-86.52977409124375">
+        <name>Potato Patch Campsite</name>
+      </trkpt>
+      <trkpt lat="46.502114418693196" lon="-86.52900161504748">
+      </trkpt>
+      <trkpt lat="46.50458093810817" lon="-86.52381422281267">
+      </trkpt>
+      <trkpt lat="46.50771930042475" lon="-86.52206004202367">
+        <cmt>Crossing a bridge over a stream. This stream leads to Bridalveil Falls</cmt>
+      </trkpt>
+      <trkpt lat="46.51122669087727" lon="-86.51911499261858">
+      </trkpt>
+      <trkpt lat="46.515405714783654" lon="-86.51585342645645">
+      </trkpt>
+      <trkpt lat="46.517960224842625" lon="-86.50619747400283">
+      </trkpt>
+      <trkpt lat="46.52250784149176" lon="-86.4998674607277">
+      </trkpt>
+      <trkpt lat="46.524995570009246" lon="-86.49361253321172">
+        <name>Mosquito River Group Campsite</name>
+      </trkpt>
+      <trkpt lat="46.525309308697764" lon="-86.49252893686295">
+      </trkpt>
+      <trkpt lat="46.52593674742125" lon="-86.4924538189173">
+      </trkpt>
+      <trkpt lat="46.52630952298587" lon="-86.492941980958">
+        <cmt>Crossing a bridge over a stream</cmt>
+      </trkpt>
+      <trkpt lat="46.52749057718987" lon="-86.49238408148291">
+        <name>Mosquito River Campsite</name>
+      </trkpt>
+      <trkpt lat="46.53142848031251" lon="-86.49007739782336">
+      </trkpt>
+      <trkpt lat="46.536266492868215" lon="-86.48248674631121">
+      </trkpt>
+      <trkpt lat="46.5432330641252" lon="-86.48077013254168">
+      </trkpt>
+      <trkpt lat="46.54602239394449" lon="-86.47562029123307">
+      </trkpt>
+      <trkpt lat="46.5475572021335" lon="-86.47023441553117">
+      </trkpt>
+      <trkpt lat="46.55025776887396" lon="-86.4675736641884">
+      </trkpt>
+      <trkpt lat="46.551571099625576" lon="-86.46853387892246">
+        <name>Miners Castle Overlook</name>
+      </trkpt>
+      <trkpt lat="46.55199534651197" lon="-86.4671713167429">
+      </trkpt>
+      <trkpt lat="46.551906808305155" lon="-86.46554053366185">
+      </trkpt>
+      <trkpt lat="46.55311312895028" lon="-86.462327247262">
+        <name>Grand Portal Point</name>
+      </trkpt>
+      <trkpt lat="46.55203593016423" lon="-86.46131874203681">
+      </trkpt>
+      <trkpt lat="46.55012495725775" lon="-86.45487072229385">
+      </trkpt>
+      <trkpt lat="46.55172236431104" lon="-86.45349743127824">
+      </trkpt>
+      <trkpt lat="46.54928380209633" lon="-86.44984961628916">
+      </trkpt>
+      <trkpt lat="46.548376233289645" lon="-86.44604087948801">
+      </trkpt>
+      <trkpt lat="46.54684145563751" lon="-86.44475342988969">
+        <cmt>Crossing a bridge over a stream</cmt>
+      </trkpt>
+      <trkpt lat="46.54744281799139" lon="-86.44071936875582">
+        <name>Chapel Beach Campsite</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Day 3</name>
+    <trkseg>
+      <trkpt lat="46.54744281799139" lon="-86.44071936875582">
+        <name>Chapel Beach Campsite</name>
+      </trkpt>
+      <trkpt lat="46.54786525246194" lon="-86.43920660287141">
+        <cmt>Crossing a bridge over a stream</cmt>
+      </trkpt>
+      <trkpt lat="46.54953836135356" lon="-86.43574119687081">
+        <cmt>Crossing a bridge over a stream</cmt>
+      </trkpt>
+      <trkpt lat="46.55072259590395" lon="-86.43043041765691">
+        <cmt>Crossing a bridge over a stream</cmt>
+      </trkpt>
+      <trkpt lat="46.551858853738594" lon="-86.42557026028634">
+      </trkpt>
+      <trkpt lat="46.554315737539994" lon="-86.41854287266732">
+      </trkpt>
+      <trkpt lat="46.557620919252614" lon="-86.41060353398323">
+        <cmt>Crossing a bridge over a stream</cmt>
+      </trkpt>
+      <trkpt lat="46.55981565525536" lon="-86.40288413643836">
+      </trkpt>
+      <trkpt lat="46.56082630686462" lon="-86.40168786585332">
+      </trkpt>
+      <trkpt lat="46.5603615553066" lon="-86.39965475142004">
+      </trkpt>
+      <trkpt lat="46.561099254336796" lon="-86.39616787970066">
+        <name>Coves Group Campsite</name>
+      </trkpt>
+      <trkpt lat="46.56864165131483" lon="-86.37291849195957">
+        <name>Coves Campsite</name>
+      </trkpt>
+      <trkpt lat="46.576275183840046" lon="-86.35197580128909">
+        <cmt>Crossing a bridge over a stream</cmt>
+      </trkpt>
+      <trkpt lat="46.57752152271987" lon="-86.34976297751071">
+        <name>Beaver Creek Campground</name>
+      </trkpt>
+      <trkpt lat="46.58645155834272" lon="-86.32892757922411">
+        <name>Pine Bluff Campground</name>
+      </trkpt>
+      <trkpt lat="46.593323223163544" lon="-86.31511689305306">
+      </trkpt>
+      <trkpt lat="46.59301357485921" lon="-86.31415129780771">
+      </trkpt>
+      <trkpt lat="46.5968250748838" lon="-86.3067484009266">
+      </trkpt>
+      <trkpt lat="46.59557849659439" lon="-86.3039074602484">
+      </trkpt>
+      <trkpt lat="46.59804883391815" lon="-86.30273582696915">
+      </trkpt>
+      <trkpt lat="46.619588960622856" lon="-86.25959516108038">
+        <name>Sevenmile Creek Campsite</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Day 4</name>
+    <trkseg>
+      <trkpt lat="46.619588960622856" lon="-86.25959516108038">
+        <name>Sevenmile Creek Campsite</name>
+      </trkpt>
+      <trkpt lat="46.62056165773152" lon="-86.25728309690952">
+      </trkpt>
+      <trkpt lat="46.63979094373885" lon="-86.21577859461308">
+      </trkpt>
+      <trkpt lat="46.64467822279028" lon="-86.20527506947518">
+        <cmt>There is a parking lot here</cmt>
+      </trkpt>
+      <trkpt lat="46.64684733366721" lon="-86.20067775517704">
+        <name>Beachmark Campsite</name>
+      </trkpt>
+      <trkpt lat="46.64840138395635" lon="-86.19731962949038">
+      </trkpt>
+      <trkpt lat="46.64815097312878" lon="-86.19635403692723">
+        <cmt>Crossing the road Au Sable Point Trail</cmt>
+      </trkpt>
+      <trkpt lat="46.648983222522546" lon="-86.19387567579746">
+      </trkpt>
+      <trkpt lat="46.649800729371194" lon="-86.19222879946231">
+      </trkpt>
+      <trkpt lat="46.6498817428905" lon="-86.19130075514317">
+      </trkpt>
+      <trkpt lat="46.650559305755024" lon="-86.19138658583164">
+      </trkpt>
+      <trkpt lat="46.654891454953244" lon="-86.18344188004734">
+        <cmt>Crossing a stream. Following the stream 300 feet North to Au Sable Point Trail road and then 400 feet East, there is a parking lot</cmt>
+      </trkpt>
+      <trkpt lat="46.65472391965113" lon="-86.18297517567873">
+      </trkpt>
+      <trkpt lat="46.65974607302106" lon="-86.17538989126686">
+      </trkpt>
+      <trkpt lat="46.660084793722916" lon="-86.17541671335698">
+        <cmt>Crossing the road Au Sable Point Trail</cmt>
+      </trkpt>
+      <trkpt lat="46.66112671475283" lon="-86.17514849245549">
+      </trkpt>
+      <trkpt lat="46.663652275616315" lon="-86.17202103406191">
+      </trkpt>
+      <trkpt lat="46.66561171345909" lon="-86.1674800528586">
+        <cmt>Crossing a bridge over Hurricane River. There is a parking lot and restrooms here</cmt>
+      </trkpt>
+      <trkpt lat="46.666459340611084" lon="-86.16597801715136">
+        <name>Hurricane River Lower Campground</name>
+      </trkpt>
+      <trkpt lat="46.66844211625097" lon="-86.16360958075781">
+      </trkpt>
+      <trkpt lat="46.66966382010196" lon="-86.1601495796442">
+      </trkpt>
+      <trkpt lat="46.670797581743614" lon="-86.15454376280309">
+      </trkpt>
+      <trkpt lat="46.67052519031765" lon="-86.14745737195015">
+      </trkpt>
+      <trkpt lat="46.67283313955346" lon="-86.13899231493475">
+        <name>Au Sable Point Lighthouse</name>
+        <cmt>There is a parking lot, restrooms, and water here</cmt>
+      </trkpt>
+      <trkpt lat="46.67116751878799" lon="-86.13617867365481">
+        <name>Au Sable East Group Campground</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Day 5</name>
+    <trkseg>
+      <trkpt lat="46.67116751878799" lon="-86.13617867365481">
+        <name>Au Sable East Group Campground</name>
+      </trkpt>
+      <trkpt lat="46.669663818261405" lon="-86.13471418887377">
+        <name>Au Sable Point Campground</name>
+      </trkpt>
+      <trkpt lat="46.66825578571303" lon="-86.13407582312821">
+      </trkpt>
+      <trkpt lat="46.667035466690336" lon="-86.13236189961434">
+      </trkpt>
+      <trkpt lat="46.66474567329288" lon="-86.12645031094554">
+      </trkpt>
+      <trkpt lat="46.66200662903653" lon="-86.12611771702767">
+      </trkpt>
+      <trkpt lat="46.660349881691175" lon="-86.12337113499642">
+      </trkpt>
+      <trkpt lat="46.65631456909053" lon="-86.12164379239083">
+      </trkpt>
+      <trkpt lat="46.652868114803745" lon="-86.11103297352791">
+        <name>Log Slide Beach</name>
+        <cmt>There is a parking lot 1000 feet off the trail</cmt>
+      </trkpt>
+      <trkpt lat="46.6506440115634" lon="-86.10469224214555">
+      </trkpt>
+      <trkpt lat="46.64656378280094" lon="-86.09814765214922">
+      </trkpt>
+      <trkpt lat="46.64674054999185" lon="-86.09483244180682">
+        <name>Masse Homestead Group Campsite</name>
+      </trkpt>
+      <trkpt lat="46.64687312500594" lon="-86.0905623650551">
+        <name>Masse Homestead Campsite</name>
+      </trkpt>
+      <trkpt lat="46.646578500532954" lon="-86.05971962481739">
+        <cmt>Crossing Sable Lake Road</cmt>
+      </trkpt>
+      <trkpt lat="46.64484026136931" lon="-86.05862796843053">
+      </trkpt>
+      <trkpt lat="46.6428662589402" lon="-86.05455637514592">
+      </trkpt>
+      <trkpt lat="46.64264160111357" lon="-86.0452920252085">
+        <cmt>Begin walking north along Grand Sable Lake</cmt>
+      </trkpt>
+      <trkpt lat="46.64676631560302" lon="-86.03988737136126">
+      </trkpt>
+      <trkpt lat="46.647355536961506" lon="-86.04355395376685">
+      </trkpt>
+      <trkpt lat="46.64833141766863" lon="-86.04274929106238">
+      </trkpt>
+      <trkpt lat="46.64866652735987" lon="-86.0389190965891">
+        <name>Grand Sable Lake Overlook</name>
+        <cmt>There is a parking lot here. Begin walking east along Sable Lake Road</cmt>
+      </trkpt>
+      <trkpt lat="46.64948772513443" lon="-86.0385918724537">
+      </trkpt>
+      <trkpt lat="46.65132155751411" lon="-86.0368645298481">
+      </trkpt>
+      <trkpt lat="46.6515204030717" lon="-86.03359223484993">
+      </trkpt>
+      <trkpt lat="46.653199514183456" lon="-86.02850408434867">
+        <cmt>Reenter the trail here to the south. There is a parking lot here</cmt>
+      </trkpt>
+      <trkpt lat="46.65203039623815" lon="-86.02734267979861">
+        <cmt>Crossing a bridge over the Sable Creek</cmt>
+      </trkpt>
+      <trkpt lat="46.65165848339032" lon="-86.02596268191935">
+      </trkpt>
+      <trkpt lat="46.65219057718082" lon="-86.02500916063785">
+      </trkpt>
+      <trkpt lat="46.65471188882125" lon="-86.02230705987344">
+      </trkpt>
+      <trkpt lat="46.657393389334146" lon="-86.02038504838946">
+        <name>Grand Sable Visitors Center</name>
+        <cmt>There is a parking lot here. Cross over Sable Lake Road</cmt>
+      </trkpt>
+      <trkpt lat="46.661156171740664" lon="-86.01909221291544">
+      </trkpt>
+      <trkpt lat="46.661516967916974" lon="-86.01981908351182">
+      </trkpt>
+      <trkpt lat="46.66196612585098" lon="-86.01966083317997">
+        <cmt>Crossing a bridge over the Sable Creek</cmt>
+      </trkpt>
+      <trkpt lat="46.663151592186466" lon="-86.0204601341486">
+      </trkpt>
+      <trkpt lat="46.66702441922223" lon="-86.0166943126917">
+      </trkpt>
+      <trkpt lat="46.667022576750256" lon="-86.01441711455584">
+      </trkpt>
+      <trkpt lat="46.6678582169414" lon="-86.01396918565037">
+        <name>Sable Falls</name>
+        <cmt>There is a parking lot, restrooms, and water 400 feet south of the trail</cmt>
+      </trkpt>
+      <trkpt lat="46.66953130463623" lon="-86.01326109051705">
+      </trkpt>
+      <trkpt lat="46.67054727645854" lon="-86.01382971882822">
+      </trkpt>
+      <trkpt lat="46.673374224300666" lon="-85.99662066042424">
+        <cmt>Crossing a stream</cmt>
+      </trkpt>
+      <trkpt lat="46.672871788643626" lon="-85.99439174473287">
+        <name>Grand Sable Visitors Center</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
