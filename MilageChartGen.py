@@ -59,50 +59,71 @@ for track in gpx.tracks:
         legs[f'{track.name} Seg {seg_count}'] = segment.points
         legs[f'{track.name} Seg {seg_count} Rev'] = list(reversed(segment.points))
         seg_count += 1
-        
-for segment in legs:
-    for point in legs[segment]:
-        if point.name is not None and point.name not in pois:
-            pois[point.name] = point
-            pois[point.name]
-            
-frompoi = "Munising Falls Visitor Center"
-topoi = "Coves Campsite"
-
-routes = {}
-success = []
-dead = []
-
-startSegments = findSourceSegment(frompoi, legs)
-print("Finding starts")
-for i in range(len(startSegments)):
-    routes[i] = [startSegments[i]]
-    if checkForEnd(topoi, legs, routes[i][0]):
-        success.append(i)
-        
-print("Finding Routes")
-for i in range(int(len(legs))):
-    if len(routes) > len(legs):
-        break
-    for i in range(len(routes)):
-        if list(routes.keys())[i] not in success or list(routes.keys())[i] not in dead:
-            currentRoute = routes[list(routes.keys())[i]][:]
-            previousSegment = routes[list(routes.keys())[i]][-1]
-            nextSegment = findNextSegments(previousSegment, legs)
-            if len(nextSegment) == 0:
-                dead.append(list(routes.keys())[i])
-            else:
-                for j in range(len(nextSegment)):
-                    newRoute = currentRoute[:]
-                    newRoute.append(nextSegment[j])
-                    routes[f'{list(routes.keys())[i]}{j}'] = newRoute[:]
-                    if checkForEnd(topoi, legs, nextSegment[j]):
-                        success.append(f'{list(routes.keys())[i]}{j}')
-                    else:
-                        pass
-                if  list(routes.keys())[i] not in success:
-                    routes.pop(list(routes.keys())[i], None)
+        for point in segment.points:
+            if point.name is not None and point.name not in pois:
+                pois[point.name] = point
+                pois[point.name]
     
+
+def pathfind(frompoi, topoi):
+    routes = {}
+    success = []
+    dead = []
+    startSegments = findSourceSegment(frompoi, legs)
+    for i in range(len(startSegments)):
+        routes[i] = [startSegments[i]]
+        if checkForEnd(topoi, legs, routes[i][0]):
+            success.append(i)
+            
+    for i in range(int(len(legs))):
+        if len(routes) > len(legs)*2:
+            break
+        for i in range(len(routes)):
+            if len(routes)-1 < i:
+                break
+            if list(routes.keys())[i] not in success or \
+            list(routes.keys())[i] not in dead:
+                currentRoute = routes[list(routes.keys())[i]][:]
+                previousSegment = routes[list(routes.keys())[i]][-1]
+                nextSegment = findNextSegments(previousSegment, legs)
+                if len(nextSegment) == 0:
+                    dead.append(list(routes.keys())[i])
+                else:
+                    for j in range(len(nextSegment)):
+                        newRoute = currentRoute[:]
+                        newRoute.append(nextSegment[j])
+                        routes[f'{list(routes.keys())[i]}{j}'] = newRoute[:]
+                        if checkForEnd(topoi, legs, nextSegment[j]):
+                            success.append(f'{list(routes.keys())[i]}{j}')
+                        else:
+                            pass
+                    if  list(routes.keys())[i] not in success:
+                        routes.pop(list(routes.keys())[i], None)
+                        
+    solutions = {}
+    pathnum = 0
+    for path in success:
+        solutions[pathnum] = []
+        for step in routes[path]:
+            solutions[pathnum].append(step)
+        pathnum += 1
+    distances = []
+    for path in solutions:
+        distance = 0
+        for step in solutions[path]:
+            for track in gpx.tracks:
+                if f'{track.name} ' in step:
+                    distance += track.length_2d()/1609.344
+
+        distances.append(distance)
+
+
+    print(f'Dist: {min(distances)} miles \n {solutions[distances.index(min(distances))]}')
+                    
+                    
+pathfind("Munising Falls Visitor Center", "Woodland Park Campground")
+
+"""
 pathnum = 0            
 for path in success:
     pathnum += 1
@@ -112,4 +133,4 @@ for path in success:
         stepcount += 1
         print(f'{stepcount}. {step}')
     print("\n")
-        
+        """
