@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <trk>
-  <name>Track 1</name>
+  <name>Trk 1</name>
   <trkseg>
     <trkpt lat="46.49352687" lon="-86.550590697">
       <ele>235.89</ele>
@@ -330,7 +330,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 2</name>
+  <name>Trk 2</name>
   <trkseg>
     <trkpt lat="46.5694369" lon="-86.3704571">
       <ele>192.468</ele>
@@ -499,7 +499,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 3</name>
+  <name>Trk 3</name>
   <trkseg>
     <trkpt lat="46.657634542" lon="-86.020747128">
       <ele>230.873</ele>
@@ -648,7 +648,7 @@
     <trkpt lat="46.651630873" lon="-86.034482728">
       <ele>229.004</ele>
     </trkpt>
-    <trkpt lat="46.65157932" lon="-86.036167156">
+    <trkpt lat="46.65157932" lon="-86.036167155">
       <ele>228.015</ele>
     </trkpt>
     <trkpt lat="46.651461486" lon="-86.036810886">
@@ -1235,7 +1235,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 4</name>
+  <name>Trk 4</name>
   <trkseg>
     <trkpt lat="46.67285" lon="-85.994329">
       <ele>199.616</ele>
@@ -1689,7 +1689,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 5</name>
+  <name>Trk 5</name>
   <trkseg>
     <trkpt lat="46.6467391" lon="-86.0948712">
       <ele>263.207</ele>
@@ -2031,7 +2031,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 6</name>
+  <name>Trk 6</name>
   <trkseg>
     <trkpt lat="46.4872095" lon="-86.5568912">
       <ele>242.501</ele>
@@ -2112,7 +2112,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 7</name>
+  <name>Trk 7</name>
   <trkseg>
     <trkpt lat="46.5694369" lon="-86.3704571">
       <ele>192.468</ele>
@@ -2169,7 +2169,7 @@
     <trkpt lat="46.565337139" lon="-86.366816464">
       <ele>192.348</ele>
     </trkpt>
-    <trkpt lat="46.565185923" lon="-86.366735997">
+    <trkpt lat="46.565185923" lon="-86.366735998">
       <ele>191.756</ele>
     </trkpt>
     <trkpt lat="46.564940658" lon="-86.366526785">
@@ -2365,7 +2365,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 8</name>
+  <name>Trk 8</name>
   <trkseg>
     <trkpt lat="46.586495805" lon="-86.317251931">
       <ele>193.306</ele>
@@ -2381,7 +2381,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 9</name>
+  <name>Trk 9</name>
   <trkseg>
     <trkpt lat="46.587793523" lon="-86.315653335">
       <ele>194.215</ele>
@@ -2421,7 +2421,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 10</name>
+  <name>Trk 10</name>
   <trkseg>
     <trkpt lat="46.557373772" lon="-86.343424922">
       <ele>188.151</ele>
@@ -2440,7 +2440,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 11</name>
+  <name>Trk 11</name>
   <trkseg>
     <trkpt lat="46.558384472" lon="-86.339541083">
       <ele>187.446</ele>
@@ -2608,7 +2608,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 12</name>
+  <name>Trk 12</name>
   <trkseg>
     <trkpt lat="46.558126266" lon="-86.363042598">
       <ele>189.83</ele>
@@ -2735,7 +2735,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 13</name>
+  <name>Trk 13</name>
   <trkseg>
     <trkpt lat="46.577507611" lon="-86.349754485">
       <ele>197.11</ele>
@@ -2877,7 +2877,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 14</name>
+  <name>Trk 14</name>
   <trkseg>
     <trkpt lat="46.584386947" lon="-86.319429885">
       <ele>194.007</ele>
@@ -2917,7 +2917,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 15</name>
+  <name>Trk 15</name>
   <trkseg>
     <trkpt lat="46.584386947" lon="-86.319429885">
       <ele>194.007</ele>
@@ -2938,7 +2938,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 16</name>
+  <name>Trk 16</name>
   <trkseg>
     <trkpt lat="46.6657438" lon="-86.1673003">
       <ele>187.655</ele>
@@ -3044,7 +3044,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 17</name>
+  <name>Trk 17</name>
   <trkseg>
     <trkpt lat="46.672608606" lon="-86.13921762">
       <ele>191.239</ele>
@@ -3191,7 +3191,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 18</name>
+  <name>Trk 18</name>
   <trkseg>
     <trkpt lat="46.6712099" lon="-86.1362565">
       <ele>190.4</ele>
@@ -3258,7 +3258,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 19</name>
+  <name>Trk 19</name>
   <trkseg>
     <trkpt lat="46.6470023" lon="-86.2004464">
       <ele>195.296</ele>
@@ -3376,7 +3376,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 20</name>
+  <name>Trk 20</name>
   <trkseg>
     <trkpt lat="46.6657438" lon="-86.1673003">
       <ele>187.655</ele>
@@ -3698,7 +3698,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 21</name>
+  <name>Trk 21</name>
   <trkseg>
     <trkpt lat="46.6664542" lon="-86.1659946">
       <ele>188.555</ele>
@@ -3748,7 +3748,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 22</name>
+  <name>Trk 22</name>
   <trkseg>
     <trkpt lat="46.6205714" lon="-86.2571521">
       <ele>190.096</ele>
@@ -3939,7 +3939,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 23</name>
+  <name>Trk 23</name>
   <trkseg>
     <trkpt lat="46.4736839" lon="-86.5723114">
       <ele>243.444</ele>
@@ -4886,7 +4886,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 24</name>
+  <name>Trk 24</name>
   <trkseg>
     <trkpt lat="46.5474777" lon="-86.4407783">
       <ele>190.654</ele>
@@ -6501,7 +6501,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 25</name>
+  <name>Trk 25</name>
   <trkseg>
     <trkpt lat="46.5611675" lon="-86.3961822">
       <ele>209.58</ele>
@@ -7056,7 +7056,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 26</name>
+  <name>Trk 26</name>
   <trkseg>
     <trkpt lat="46.5274827" lon="-86.492364">
       <ele>189.852</ele>
@@ -7151,7 +7151,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 27</name>
+  <name>Trk 27</name>
   <trkseg>
     <trkpt lat="46.5930325" lon="-86.3141463">
       <ele>195.2</ele>
@@ -7500,12 +7500,12 @@
     <trkpt lat="46.619261" lon="-86.2590265">
       <ele>191.701</ele>
       <time>2020-11-27T16:09:04Z</time>
-      <name>Trappers Group Campsite</name>
+      <name>Sevenmile Creek Campsite</name>
     </trkpt>
   </trkseg>
 </trk>
 <trk>
-  <name>Track 28</name>
+  <name>Trk 28</name>
   <trkseg>
     <trkpt lat="46.568663" lon="-86.3728968">
       <ele>190.334</ele>
@@ -7708,7 +7708,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 29</name>
+  <name>Trk 29</name>
   <trkseg>
     <trkpt lat="46.5694369" lon="-86.3704571">
       <ele>192.468</ele>
@@ -7734,7 +7734,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 30</name>
+  <name>Trk 30</name>
   <trkseg>
     <trkpt lat="46.4872095" lon="-86.5568912">
       <ele>242.501</ele>
@@ -7897,7 +7897,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 31</name>
+  <name>Trk 31</name>
   <trkseg>
     <trkpt lat="46.669664" lon="-86.1347342">
       <ele>187.398</ele>
@@ -7924,7 +7924,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 32</name>
+  <name>Trk 32</name>
   <trkseg>
     <trkpt lat="46.4985682" lon="-86.5297757">
       <ele>231.068</ele>
@@ -8319,7 +8319,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 33</name>
+  <name>Trk 33</name>
   <trkseg>
     <trkpt lat="46.5864966" lon="-86.3289145">
       <ele>197.619</ele>
@@ -8385,7 +8385,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 34</name>
+  <name>Trk 34</name>
   <trkseg>
     <trkpt lat="46.5897254" lon="-86.3226037">
       <ele>192.426</ele>
@@ -8490,12 +8490,12 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 35</name>
+  <name>Trk 35</name>
   <trkseg>
     <trkpt lat="46.619261" lon="-86.2590265">
       <ele>191.701</ele>
       <time>2020-11-27T16:09:04Z</time>
-      <name>Trappers Group Campsite</name>
+      <name>Sevenmile Creek Campsite</name>
     </trkpt>
     <trkpt lat="46.6192834" lon="-86.2585796">
       <ele>189.934</ele>
@@ -8525,7 +8525,7 @@
   </trkseg>
 </trk>
 <trk>
-  <name>Track 36</name>
+  <name>Trk 36</name>
   <trkseg>
     <trkpt lat="46.6469047" lon="-86.0910592">
       <ele>261.976</ele>
