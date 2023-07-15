@@ -90,6 +90,8 @@ def pathfind(frompoi, topoi):
                     dead.append(list(routes.keys())[i])
                 else:
                     for j in range(len(nextSegment)):
+                        if nextSegment[j] in routes[list(routes.keys())[i]]:
+                            break
                         newRoute = currentRoute[:]
                         newRoute.append(nextSegment[j])
                         routes[f'{list(routes.keys())[i]}{j}'] = newRoute[:]
@@ -116,8 +118,7 @@ def pathfind(frompoi, topoi):
                     distance += track.length_2d()/1609.344
 
         distances.append(distance)
-
-
+        
     print(f'Dist: {min(distances)} miles \n {solutions[distances.index(min(distances))]}')
                     
                     
